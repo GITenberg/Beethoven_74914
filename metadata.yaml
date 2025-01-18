@@ -1,0 +1,41 @@
+_repo: Beethoven_74914
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Madetoja, Leevi
+    birthdate: 1887
+    deathdate: 1947
+    gutenberg_agent_id: '57722'
+    url: http://www.gutenberg.org/2009/agents/57722
+    wikipedia: https://fi.wikipedia.org/wiki/Leevi_Madetoja
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2024-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74914'
+language: fi
+pgterms:marc905: 20241114033649rolland
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beethoven, Ludwig van, 1770-1827'
+- !lcc 'ML'
+- GITenberg
+title: Beethoven
+url: http://www.gutenberg.org/ebooks/74914
